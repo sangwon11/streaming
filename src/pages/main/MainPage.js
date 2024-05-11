@@ -1,13 +1,18 @@
 import React from "react";
+import Nav from "../nav/Nav";
+import MoviePage from "../../movie/MoviePage";
 import './MainPage.css';
+
 function MainPage() {
     return (
-        <div className="main-page">
+      <div className="background">
+        <Nav/>
         <div className="main-page-content">
           <h1>Welcome to Streaming-site</h1>
           <p>You can watch unlimited historical movies and drama series.</p>
-          <button className="btn btn-primary">Sign In</button>
+          
         </div>
+        <MoviePage/>
       </div>
     );
 };
