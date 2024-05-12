@@ -9,11 +9,12 @@ function MoviePage() {
     // 여기서 영화 데이터를 가져오는 API 요청 등을 처리.
     // 임시로 더미 데이터를 사용.
     const dummyMovies = [
-      { id: 1, title: 'Movie 1', imageUrl: 'https://via.placeholder.com/200' },
-      { id: 2, title: 'Movie 2', imageUrl: 'https://via.placeholder.com/200' },
-      { id: 3, title: 'Movie 3', imageUrl: 'https://via.placeholder.com/200' },
-      { id: 4, title: 'Movie 4', imageUrl: 'https://via.placeholder.com/200' },
-      { id: 5, title: 'Movie 5', imageUrl: 'https://via.placeholder.com/200' },
+      { id: 1, title: 'Movie 1', imageUrl: 'http://file.koreafilm.or.kr/poster/99/18/14/DPF027716_01.jpg' },
+      { id: 2, title: 'Movie 2', imageUrl: 'http://file.koreafilm.or.kr/poster/00/00/91/DPF000044_01.jpg' },
+      { id: 3, title: 'Movie 3', imageUrl: 'http://file.koreafilm.or.kr/poster/00/03/89/DPF07121A_01.jpg' },
+      { id: 4, title: 'Movie 4', imageUrl: 'http://file.koreafilm.or.kr/poster/00/01/72/DPK005647_01.JPG' },
+      { id: 5, title: 'Movie 5', imageUrl: 'http://file.koreafilm.or.kr/poster/00/02/63/DPF006401_01.JPG' },
+      { id: 6, title: 'Movie 6', imageUrl: 'https://via.placeholder.com/200' },
     ];
 
     setMovies(dummyMovies);
