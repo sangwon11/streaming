@@ -15,6 +15,12 @@ function MoviePage() {
       { id: 4, title: 'Movie 4', imageUrl: 'http://file.koreafilm.or.kr/poster/00/01/72/DPK005647_01.JPG' },
       { id: 5, title: 'Movie 5', imageUrl: 'http://file.koreafilm.or.kr/poster/00/02/63/DPF006401_01.JPG' },
       { id: 6, title: 'Movie 6', imageUrl: 'https://via.placeholder.com/200' },
+      { id: 7, title: 'Movie 7', imageUrl: 'https://via.placeholder.com/200' },
+      { id: 8, title: 'Movie 8', imageUrl: 'https://via.placeholder.com/200' },
+      { id: 9, title: 'Movie 9', imageUrl: 'https://via.placeholder.com/200' },
+      { id: 10, title: 'Movie 10', imageUrl: 'https://via.placeholder.com/200' },
+      { id: 11, title: 'Movie 11', imageUrl: 'https://via.placeholder.com/200' },
+      { id: 12, title: 'Movie 12', imageUrl: 'https://via.placeholder.com/200' },
     ];
 
     setMovies(dummyMovies);

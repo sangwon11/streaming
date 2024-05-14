@@ -10,7 +10,6 @@ function MainPage() {
         <div className="main-page-content">
           <h1>Welcome to Streaming-site</h1>
           <p>You can watch unlimited historical movies and drama series.</p>
-          
         </div>
         <MoviePage/>
       </div>
