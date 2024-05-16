@@ -21,6 +21,12 @@ function MoviePage() {
       { id: 10, title: 'Movie 10', imageUrl: 'https://via.placeholder.com/200' },
       { id: 11, title: 'Movie 11', imageUrl: 'https://via.placeholder.com/200' },
       { id: 12, title: 'Movie 12', imageUrl: 'https://via.placeholder.com/200' },
+      { id: 13, title: 'Movie 13', imageUrl: 'https://via.placeholder.com/200' },
+      { id: 14, title: 'Movie 14', imageUrl: 'https://via.placeholder.com/200' },
+      { id: 15, title: 'Movie 15', imageUrl: 'https://via.placeholder.com/200' },
+      { id: 16, title: 'Movie 16', imageUrl: 'https://via.placeholder.com/200' },
+      { id: 17, title: 'Movie 17', imageUrl: 'https://via.placeholder.com/200' },
+      { id: 18, title: 'Movie 18', imageUrl: 'https://via.placeholder.com/200' },
     ];
 
     setMovies(dummyMovies);
